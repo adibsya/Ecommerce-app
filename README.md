@@ -1,2 +1,2 @@
 # Ecommerce-app
- Ecommerce App with MERN Stack
+ This is a website ecommerce of Electronic and Computer tools
