@@ -11,25 +11,25 @@ const Navbar = () => {
         <img src={assets.logo} alt='logo' className='w-36' />
         <ul className='hidden sm:flex gap-5 text-sm text-blue-950'>
             <li>
-                <NavLink to ='/' className='flex flex-col items-center gap-1' >
+                <NavLink to ='/' className='flex flex-col items-center' >
                     <p>HOME</p>
                     <hr className='w-2/4 border-none h-[1.5px] bg-red-700 hidden'/>
                 </NavLink>
             </li>
             <li>
-                <NavLink to ='/collection' className='flex flex-col items-center gap-1' >
+                <NavLink to ='/collection' className='flex flex-col items-center' >
                     <p>COLLECTION</p>
                     <hr className='w-2/4 border-none h-[1.5px] bg-red-700 hidden'/>
                 </NavLink>
             </li>
             <li>
-                <NavLink to ='/about' className='flex flex-col items-center gap-1' >
+                <NavLink to ='/about' className='flex flex-col items-center' >
                     <p>ABOUT</p>
                     <hr className='w-2/4 border-none h-[1.5px] bg-red-700 hidden'/>
                 </NavLink>
             </li>
             <li>
-                <NavLink to ='/contact' className='flex flex-col items-center gap-1' >
+                <NavLink to ='/contact' className='flex flex-col items-center' >
                     <p>CONTACT</p>
                     <hr className='w-2/4 border-none h-[1.5px] bg-red-700 hidden'/>
                 </NavLink>
