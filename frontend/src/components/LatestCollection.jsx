@@ -9,7 +9,7 @@ const LatestCollection = () => {
   return (
     <div className='my-10'>
       <div className='text-center py-8 text-3xl'>
-        <Title text1={'Latest'} text2={'Collection'} />
+        <Title text1={'HOT'} text2={'ITEMS'} />
       </div>
     </div>
   )
