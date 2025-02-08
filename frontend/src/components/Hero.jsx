@@ -22,7 +22,7 @@ const Hero = () => {
             <button className="bg-[#457B9D] text-white py-2 px-5 mt-2 hover:bg-[#1D3557]">SHOP NOW</button>
         </div>
         <div className="order-1 lg:order-2">
-            <img className='h-80 w-80 object-cover lg:w-[400px] lg:h-[400px]' src={assets.hero_img} alt="" />
+            <img className='h-70 object-cover lg:w-[400px] lg:h-[400px]' src={assets.hero_img} alt="" />
         </div>
       </div>
     </div>
